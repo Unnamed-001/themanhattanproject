@@ -1,0 +1,13 @@
+{
+  "itemGroup.themanhattanproject": "Example Mod Tab",
+  "block.themanhattanproject.example_block": "Example Block",
+  "item.themanhattanproject.example_item": "Example Item",
+
+  "themanhattanproject.configuration.title": "The Manhattan Project Configs",
+  "themanhattanproject.configuration.section.themanhattanproject.common.toml": "The Manhattan Project Configs",
+  "themanhattanproject.configuration.section.themanhattanproject.common.toml.title": "The Manhattan Project Configs",
+  "themanhattanproject.configuration.items": "Item List",
+  "themanhattanproject.configuration.logDirtBlock": "Log Dirt Block",
+  "themanhattanproject.configuration.magicNumberIntroduction": "Magic Number Text",
+  "themanhattanproject.configuration.magicNumber": "Magic Number"
+}
